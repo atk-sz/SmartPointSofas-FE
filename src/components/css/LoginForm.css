@@ -1,0 +1,13 @@
+.login-form * {
+  text-align: start;
+}
+.login-form {
+  width: 400px;
+}
+.login-form #login_submit {
+  text-align: center;
+  width: 400px;
+}
+#emailHelp{
+    padding-left: 5px;
+}

@@ -1,0 +1,13 @@
+.register-form * {
+  text-align: start;
+}
+.register-form {
+  width: 400px;
+}
+.register-form #register_submit {
+  text-align: center;
+  width: 400px;
+}
+#emailHelp {
+  padding-left: 5px;
+}

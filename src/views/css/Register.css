@@ -1,0 +1,6 @@
+.register-page .register-form-div {
+  margin-top: 15vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
